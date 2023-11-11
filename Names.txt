@@ -1,3 +1,7 @@
 Names:
+<<<<<<< HEAD
 Jaden Kunzler
+=======
+
+>>>>>>> 3d9baa672bc821aadc6874849b61b093c659794a
 Jonah Kunzler
